@@ -1,0 +1,6 @@
+{
+  "name": "Protego Maxima",
+  "description": "Adaptive Zero-Trust Infrastructure for Adversarial AI Safety Testing. Measuring direct access risk and indirect side-channel information leakage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
